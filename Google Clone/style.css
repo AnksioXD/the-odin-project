@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #202124;
+    color: #fff;
+}
+
+nav ul li {
+    font-size: 13px;
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+}
